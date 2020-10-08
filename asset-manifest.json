@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/nykaa-assignment/static/css/main.9e027bd5.chunk.css",
+    "main.js": "/nykaa-assignment/static/js/main.1839cca2.chunk.js",
+    "main.js.map": "/nykaa-assignment/static/js/main.1839cca2.chunk.js.map",
+    "runtime-main.js": "/nykaa-assignment/static/js/runtime-main.3fd1e79d.js",
+    "runtime-main.js.map": "/nykaa-assignment/static/js/runtime-main.3fd1e79d.js.map",
+    "static/css/2.99ee2f66.chunk.css": "/nykaa-assignment/static/css/2.99ee2f66.chunk.css",
+    "static/js/2.fe2dcce9.chunk.js": "/nykaa-assignment/static/js/2.fe2dcce9.chunk.js",
+    "static/js/2.fe2dcce9.chunk.js.map": "/nykaa-assignment/static/js/2.fe2dcce9.chunk.js.map",
+    "index.html": "/nykaa-assignment/index.html",
+    "precache-manifest.4b5768761fdb875eb79adb8c88e421f9.js": "/nykaa-assignment/precache-manifest.4b5768761fdb875eb79adb8c88e421f9.js",
+    "service-worker.js": "/nykaa-assignment/service-worker.js",
+    "static/css/2.99ee2f66.chunk.css.map": "/nykaa-assignment/static/css/2.99ee2f66.chunk.css.map",
+    "static/css/main.9e027bd5.chunk.css.map": "/nykaa-assignment/static/css/main.9e027bd5.chunk.css.map",
+    "static/js/2.fe2dcce9.chunk.js.LICENSE.txt": "/nykaa-assignment/static/js/2.fe2dcce9.chunk.js.LICENSE.txt",
+    "static/media/nykaa_logo.svg": "/nykaa-assignment/static/media/nykaa_logo.7ed3f404.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3fd1e79d.js",
+    "static/css/2.99ee2f66.chunk.css",
+    "static/js/2.fe2dcce9.chunk.js",
+    "static/css/main.9e027bd5.chunk.css",
+    "static/js/main.1839cca2.chunk.js"
+  ]
+}
